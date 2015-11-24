@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # packaged angular
 
 This repo is for distribution on `npm` and `bower`. The source for this module is in the
@@ -62,3 +63,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+=======
+# junior
+>>>>>>> 39f8a9ccdec666fb26336074a16f4b7f106594b2
